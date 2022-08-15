@@ -1,0 +1,217 @@
+/*****************************Tags****************************/
+body {
+  background-color: #90C8AC;
+  margin: 0;
+  text-align: center;
+}
+
+span {
+  text-decoration: underline;
+}
+/*****************************Class****************************/
+.header {
+  display: block;
+  background-color: #73A9AD;
+  padding: 0;
+
+}
+.siteP {
+  display: inline-block;
+  width: 5%;
+  position: relative;
+  right: 47%;
+}
+.Fname {
+  display: inline-block;
+  color: #554994;
+  position: absolute;
+  right: 67%;
+  font-family: Merriweather, sans-serif;
+}
+
+.top-container {
+  display: block;
+
+}
+
+.Name {
+  display: block;
+  width: 90%;
+  margin: 0 auto 0 auto;
+  /*border-style: dashed;
+  border-color: white;border*/
+}
+
+.mountain {
+  display: block;
+  width: 60%;
+  margin: 0 auto 0 auto;
+}
+.cloudt {
+  width: 20%;
+  position: absolute;
+  right: 40px;
+}
+.cloudb {
+  width: 20%;
+  position: absolute;
+  left: 40px;
+}
+
+.maintext {
+  font-family: Sacramento, cursive;
+  font-size: 5.6em;
+  color: #554994;
+  font-weight: 900;
+  margin: 20px auto 0 auto;
+}
+
+.mainp {
+  font-family: Merriweather, sans-serif;
+  font-size: 1.5em;
+  color: #554994;
+  font-weight: 300;
+  margin: 0 auto 0 auto;
+  width: 40%;
+}
+
+.mid-container {
+  display: block;
+  width: 80%;
+  margin: 0 auto 0 auto;
+}
+.mc {
+  display: block;
+  width: 60%;
+  margin: 20px auto 80px auto;
+}
+.mypic {
+  width: 30%;
+  margin: 10px auto 0 auto;
+}
+.hello {
+  font-family: Merriweather, sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+  margin: 0 auto 0 auto;
+  color: #554994;
+
+}
+
+
+.pharmP {
+  width: 15%;
+  float: left;
+  margin: 0 5px 0 0;
+}
+.h3pharm {
+  text-align: left;
+  color: #554994;
+  font-family: Merriweather, sans-serif;
+  margin: 0;
+}
+.pmc2 {
+  text-align: left;
+  margin: 0 0 5px 0;
+}
+
+
+.progP {
+  width: 15%;
+  float: right;
+  margin: 0 0 0 5px;
+}
+.h3p {
+  text-align: right;
+  color: #554994;
+  font-family: Merriweather, sans-serif;
+  margin: 0;
+}
+.pmc3 {
+  text-align: left;
+  margin: 0;
+}
+
+
+.gamerP {
+  width: 15%;
+  float: left;
+  margin: 0 5px 0 0;
+}
+.h3g {
+  text-align: left;
+  color: #554994;
+  font-family: Merriweather, sans-serif;
+  margin: 0;
+}
+.pmc4 {
+  text-align: left;
+  margin: 0 0 5px 0;
+}
+
+.oo {
+  color: #554994;
+  font-family: Merriweather, sans-serif;
+}
+.oi {
+  font-family: Merriweather, sans-serif;
+  margin: auto;
+  width: 40%;
+}
+.myButton {
+	box-shadow: 3px 4px 0px 0px #1564ad;
+	background:linear-gradient(to bottom, #79bbff 5%, #378de5 100%);
+	background-color:#79bbff;
+	border-radius:5px;
+	border:1px solid #337bc4;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	font-weight:bold;
+	padding:12px 44px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #528ecc;
+  margin-top: 10px;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #378de5 5%, #79bbff 100%);
+	background-color:#378de5;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+
+
+
+.bottom-container {
+  display: block;
+  width: 100%;
+}
+
+.imgS {
+  display: inline-block;
+  width: 40px;
+  margin-top: 20px;
+  margin: 20px 20px auto 20px;
+}
+.Fp {
+  color: #554994;
+  font-family: Merriweather, sans-serif;
+  font-weight: 600;
+}
+
+.maincm {
+  background-color: #90C8AC;
+  margin: 0;
+  text-align: center;
+}
+.FC {
+  display: block;
+  text-align: center;
+}
+
+/*****************************Ids****************************/
